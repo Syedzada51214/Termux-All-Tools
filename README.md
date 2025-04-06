@@ -16,7 +16,7 @@
 
         1. Clone the repository:
         ```
-        git clone https://github.com/syedzada51214/termux-python-installer.git
+        git clone https://github.com/syedzada51214/Termux-All-Tools.git
         cd termux-python-installer
         ```
 
