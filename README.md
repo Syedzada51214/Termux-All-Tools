@@ -17,7 +17,7 @@
         1. Clone the repository:
         ```
         git clone https://github.com/syedzada51214/Termux-All-Tools.git
-        cd termux-python-installer
+        cd Termux-All-Tools
         ```
 
         2. Run the installer:
