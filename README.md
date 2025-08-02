@@ -1,3 +1,12 @@
+#  🛠️ Termux Hacker Toolkit
+
+
+
+```
+$(cat ~/Termux-All-Tools/logo.txt)
+```
+
+
 # Termux-Toolkit 🛠️
 
 **The Ultimate Termux Package Manager** - A feature-rich Python script to manage Termux packages with ease.
